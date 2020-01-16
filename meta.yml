@@ -1,0 +1,8 @@
+name: base_web_httpd
+title: 基础镜像 WEB Apache HTTP Server 2.4.41
+desc: 基础镜像 WEB Apache HTTP Server 2.4.41
+tags:
+  - web
+  - apache
+  - httpd
+  - cgi
